@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi, I'm Taisei👋
 
 <!--
 **taisei-sae/taisei-sae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Now
+- 🚗 a software engineer at Koito.
+- ✨ Working on a development of a Object Detection & Tracking system using LiDAR.
+
+## Contact Me
+- You can find me on [LinkedIn](https://www.linkedin.com/in/taisei-saegusa/).
