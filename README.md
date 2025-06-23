@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Now
-- 🚗 A software engineer at Koito.
-- ✨ Working on a development of a Object Detection & Tracking system using LiDAR.
+- 🚗 An application software engineer at Koito.
+- ✨ Working on a development of a object detection & tracking app using LiDAR.
 
 ## Contact Me
 - You can find me on [LinkedIn](https://www.linkedin.com/in/taisei-saegusa/).
