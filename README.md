@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ✨ Working on a development of a object detection & tracking app using LiDAR.
 
 ## Contact Me
-- You can find me on [LinkedIn](https://www.linkedin.com/in/taisei-saegusa/).
+- You can find me on [LinkedIn](https://www.linkedin.com/in/taisei-saegusa-451693249/).
