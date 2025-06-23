@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Now
-- 🚗 a software engineer at Koito.
+- 🚗 A software engineer at Koito.
 - ✨ Working on a development of a Object Detection & Tracking system using LiDAR.
 
 ## Contact Me
